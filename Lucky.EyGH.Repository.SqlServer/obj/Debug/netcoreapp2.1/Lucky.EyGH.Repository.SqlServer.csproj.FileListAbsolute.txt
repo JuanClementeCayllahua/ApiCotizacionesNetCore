@@ -1,0 +1,14 @@
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.deps.json
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.pdb
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.pdb
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.csprojAssemblyReference.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.AssemblyInfoInputs.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.AssemblyInfo.cs
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.csproj.CopyComplete
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Repository.SqlServer\obj\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.pdb

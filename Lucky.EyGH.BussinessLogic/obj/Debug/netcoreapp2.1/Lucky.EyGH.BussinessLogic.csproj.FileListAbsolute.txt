@@ -1,0 +1,16 @@
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.deps.json
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.pdb
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.pdb
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\Lucky.EyGH.Repository.SqlServer.pdb
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.AssemblyInfo.cs
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.csproj.CopyComplete
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.BussinessLogic\obj\Debug\netcoreapp2.1\Lucky.EyGH.BussinessLogic.pdb

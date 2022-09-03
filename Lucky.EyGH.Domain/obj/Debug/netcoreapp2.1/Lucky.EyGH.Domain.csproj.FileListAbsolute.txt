@@ -1,0 +1,9 @@
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.deps.json
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\bin\Debug\netcoreapp2.1\Lucky.EyGH.Domain.pdb
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\obj\Debug\netcoreapp2.1\Lucky.EyGH.Domain.csprojAssemblyReference.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\obj\Debug\netcoreapp2.1\Lucky.EyGH.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\obj\Debug\netcoreapp2.1\Lucky.EyGH.Domain.AssemblyInfoInputs.cache
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\obj\Debug\netcoreapp2.1\Lucky.EyGH.Domain.AssemblyInfo.cs
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\obj\Debug\netcoreapp2.1\Lucky.EyGH.Domain.dll
+C:\Users\jcayllah\source\repos\Lucky.EyGH.WebAPI\Lucky.EyGH.Domain\obj\Debug\netcoreapp2.1\Lucky.EyGH.Domain.pdb
