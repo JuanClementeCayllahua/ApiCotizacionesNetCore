@@ -1,3 +1,2 @@
 ## Api C#
-Ejecutar ``npm install``
-```aaa`aaa``
+Ejecutar ``test``
